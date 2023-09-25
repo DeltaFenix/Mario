@@ -1,2 +1,2 @@
 # Mario
-This is simple platform game, made based on the famous game Mario
+Это простая игра-платформер,созданная по мотивам известной игры Марио
